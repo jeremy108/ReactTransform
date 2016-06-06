@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 1726 + Rectangle 1727 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="System-1" sketch:type="MSArtboardGroup" transform="translate(-15.000000, -323.000000)">
+            <g id="Rectangle-1726-+-Rectangle-1727-Copy" sketch:type="MSLayerGroup" transform="translate(15.000000, 323.000000)">
+                <path d="M0,1.50524116 C0,0.673919421 0.668519612,0 1.50880019,0 L8.89432024,0 L14,5.23736709 L14,14.503502 C14,15.329995 13.3247509,16 12.5017548,16 L1.49824524,16 C0.670787242,16 0,15.3328702 0,14.4947588 L0,1.50524116 Z" id="Rectangle-1726" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-1727" stroke="#293542" sketch:type="MSShapeGroup" x="9" y="0" width="6" height="6"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
